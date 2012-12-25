@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Sphere_001</Name>
+    <Identity>
+      <SourceFilename>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical RacerContent\Models\cube.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>5.413901E-08 0 -0.717092931 0 -0.717092931 0 -5.413901E-08 0 0 0.717092931 0 0 -0.007004246 1.74707067 -0.0571668223 1</Transform>
+    <Positions>1.377399 -1.387702 -1.395626 -1.411639 -1.387703 -1.395626 -1.41164 1.401336 -1.395626 1.377399 1.401336 -1.395626 1.377398 -1.387703 1.393414 -1.41164 -1.387702 1.393414 -1.411639 1.401336 1.393414 1.377398 1.401336 1.393414</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 1 10 6 12 11 11 13 6 15 14 2 2 16 15 19 18 17 17 5 19</Indices>
+        <Vertices>
+          <PositionIndices>0 1 2 3 4 7 6 5 0 4 5 1 5 2 6 7 3 4 0 3</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.5773492 -0.5773492 -0.5773492 -0.5773492 -0.5773492 -0.5773492 -0.5773492 0.5773492 -0.5773492 0.5773492 0.5773492 -0.5773492 0.5773492 -0.5773492 0.5773492 0.5773492 0.5773492 0.5773492 -0.5773492 0.5773492 0.5773492 -0.5773492 -0.5773492 0.5773492 0.5773492 -0.5773492 -0.5773492 0.5773492 -0.5773492 0.5773492 -0.5773492 -0.5773492 0.5773492 -0.5773492 -0.5773492 -0.5773492 -0.5773492 -0.5773492 0.5773492 -0.5773492 0.5773492 -0.5773492 -0.5773492 0.5773492 0.5773492 0.5773492 0.5773492 0.5773492 0.5773492 0.5773492 -0.5773492 0.5773492 -0.5773492 0.5773492 0.5773492 -0.5773492 -0.5773492 0.5773492 0.5773492 -0.5773492</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 1 1 0 1 0 0 0 1 0 0 1 0 1 1 0 1 0 0 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 0 1</VertexChannel>
+            <VertexChannel Name="Color0" ElementType="Framework:Vector4">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material_001</Name>
+      <Identity>
+        <SourceFilename>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical RacerContent\Models\cube.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

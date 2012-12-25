@@ -1,0 +1,104 @@
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCar.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\hoarding.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\horizon.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\Cylinder.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track2.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track3.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\cube.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCarSteerLeft.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCarSteerRight.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\luckBox.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\slick.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track1.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\startFinish.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELLeft.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELRight.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELStraight.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\Shed.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\LapsCompletes.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\HUDfont.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\ResultsFont.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\CountDownFont.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3trackonly.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\racingStartScreen.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2trackonly.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1trackonly.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\winner.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2hoarding_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\horizon_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LuckyBoxTexture_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\slickTexture_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinish_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinishpoles_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LIME_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\RED_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\WHITE_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\shed_0.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\3D Radical Racer.exe
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\3D Radical Racer.pdb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.exe
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.pdb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\missile.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\podium.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.xnb
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.wmv
+C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCar.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\hoarding.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\horizon.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\Cylinder.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track2.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track3.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\cube.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCarSteerLeft.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCarSteerRight.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\luckBox.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\slick.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track1.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\startFinish.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELLeft.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELRight.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELStraight.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\Shed.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\missile.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\LapsCompletes.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\HUDfont.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\ResultsFont.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\CountDownFont.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3trackonly.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\racingStartScreen.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2trackonly.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1trackonly.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\winner.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\podium.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2hoarding_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\horizon_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LuckyBoxTexture_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\slickTexture_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinish_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinishpoles_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LIME_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\RED_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\WHITE_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\shed_0.xnb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.wmv
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\3D Radical Racer.exe
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\3D Radical Racer.pdb
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.exe
+C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.pdb

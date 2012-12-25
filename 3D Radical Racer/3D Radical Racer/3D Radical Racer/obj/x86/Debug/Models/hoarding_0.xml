@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Plane_001</Name>
+    <Identity>
+      <SourceFilename>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical RacerContent\Models\hoarding.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>402.313 0 0 0 0 0 -402.313 0 0 402.313 0 0 0 0 0 1</Transform>
+    <Positions>-1 -1 0.049713 1 -1 0.049713 1 -1 0.049713 1 1 0.049713 1 -1 0 1 1 0 -1 1 0.049713 1 1 0.049713 -1 1 0.049713 -1 -1 0.049713 -1 1 0 -1 -1 0 1 -1 0 1 1 0</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+        <Vertices>
+          <PositionIndices>0 1 12 11 5 4 2 3 10 13 7 6 11 10 8 9</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 1 0 0 1 0 0 1 0 0.707083344 0.707083344 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0.707083344 -0.707083344 0 0 -1 0 0 -1 0 0 -1 0 0.707083344 0.707083344 0 0.707083344 -0.707083344 0 1 0 0 1 0 0</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.013466 0.872615 1 0.872615 0.986534 0.74523 0 0.74523 0.965746 0.495829 0 0.495829 0.013182 0.620529 0.978928 0.620529 0.013466 1 1 1 0.986534 0.872615 0 0.872615 0.013182 0.74523 0.978928 0.74523 0.965746 0.62053 0 0.620529</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material_003__untitled_010</Name>
+      <Identity>
+        <SourceFilename>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical RacerContent\Models\hoarding.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\3D Radical RacerContent\Textures\track2hoarding.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

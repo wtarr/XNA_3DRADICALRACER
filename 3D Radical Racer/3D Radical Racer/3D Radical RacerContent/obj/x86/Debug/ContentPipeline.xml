@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\MyCar.fbx</Source>
+      <Name>Models\MyCar</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCar.xnb</Output>
+      <Time>2012-05-04T17:32:24.7950135+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MyCar_0.xml</Key>
+        <Value>2012-05-22T11:43:21.6034513+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\hoarding.fbx</Source>
+      <Name>Models\hoarding</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\hoarding.xnb</Output>
+      <Time>2012-05-04T17:32:22.5868872+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\hoarding_0.xml</Key>
+        <Value>2012-05-22T11:43:22.1604831+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2hoarding_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\horizon.fbx</Source>
+      <Name>Models\horizon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\horizon.xnb</Output>
+      <Time>2012-05-04T17:32:22.6018881+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\horizon_0.xml</Key>
+        <Value>2012-05-22T11:43:22.613509+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\horizon_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Cylinder.fbx</Source>
+      <Name>Models\Cylinder</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\Cylinder.xnb</Output>
+      <Time>2012-05-04T17:32:21.8758465+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Cylinder_0.xml</Key>
+        <Value>2012-05-22T11:43:23.1175379+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\horizon_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\track2.fbx</Source>
+      <Name>Models\track2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track2.xnb</Output>
+      <Time>2012-05-04T17:32:26.3641033+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\track2_0.xml</Key>
+        <Value>2012-05-22T11:43:23.1805415+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\track3.fbx</Source>
+      <Name>Models\track3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track3.xnb</Output>
+      <Time>2012-05-04T17:32:26.4081058+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\track3_0.xml</Key>
+        <Value>2012-05-22T11:43:23.7095717+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\cube.fbx</Source>
+      <Name>Models\cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\cube.xnb</Output>
+      <Time>2012-05-04T17:32:21.8428447+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\cube_0.xml</Key>
+        <Value>2012-05-22T11:43:24.1985997+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\MyCarSteerLeft.fbx</Source>
+      <Name>Models\MyCarSteerLeft</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCarSteerLeft.xnb</Output>
+      <Time>2012-05-04T17:32:25.7600687+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MyCarSteerLeft_0.xml</Key>
+        <Value>2012-05-22T11:43:24.3646092+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\MyCarSteerRight.fbx</Source>
+      <Name>Models\MyCarSteerRight</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\MyCarSteerRight.xnb</Output>
+      <Time>2012-05-04T17:32:26.2410962+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MyCarSteerRight_0.xml</Key>
+        <Value>2012-05-22T11:43:24.5336189+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\luckBox.fbx</Source>
+      <Name>Models\luckBox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\luckBox.xnb</Output>
+      <Time>2012-05-04T17:32:23.194922+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\luckBox_0.xml</Key>
+        <Value>2012-05-22T11:43:24.5806215+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LuckyBoxTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\slick.fbx</Source>
+      <Name>Models\slick</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\slick.xnb</Output>
+      <Time>2012-05-04T17:32:26.1350902+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\slick_0.xml</Key>
+        <Value>2012-05-22T11:43:25.0616491+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\slickTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\track1.fbx</Source>
+      <Name>Models\track1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\track1.xnb</Output>
+      <Time>2012-05-04T17:32:26.3541027+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\track1_0.xml</Key>
+        <Value>2012-05-22T11:43:25.4576717+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\startFinish.fbx</Source>
+      <Name>Models\startFinish</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\startFinish.xnb</Output>
+      <Time>2012-05-04T17:32:26.1940935+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\startFinish_0.xml</Key>
+        <Value>2012-05-22T11:43:25.9246984+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinish_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinishpoles_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\F1MODELLeft.fbx</Source>
+      <Name>Models\F1MODELLeft</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELLeft.xnb</Output>
+      <Time>2012-05-04T17:32:25.5580572+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\F1MODELLeft_0.xml</Key>
+        <Value>2012-05-22T11:43:26.9737584+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LIME_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\RED_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\WHITE_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\F1MODELRight.fbx</Source>
+      <Name>Models\F1MODELRight</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELRight.xnb</Output>
+      <Time>2012-05-04T17:32:31.6634064+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\F1MODELRight_0.xml</Key>
+        <Value>2012-05-22T11:43:29.046877+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LIME_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\RED_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\WHITE_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\F1MODELStraight.fbx</Source>
+      <Name>Models\F1MODELStraight</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\F1MODELStraight.xnb</Output>
+      <Time>2012-05-04T17:32:25.8100716+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\F1MODELStraight_0.xml</Key>
+        <Value>2012-05-22T11:43:29.4789017+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LIME_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\RED_0.xnb</Request>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\WHITE_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Shed.fbx</Source>
+      <Name>Models\Shed</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\Shed.xnb</Output>
+      <Time>2012-05-04T17:32:27.041142+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Shed_0.xml</Key>
+        <Value>2012-05-22T11:43:29.5479057+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\shed_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\missile.fbx</Source>
+      <Name>Models\missile</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Models\missile.xnb</Output>
+      <Time>2012-05-04T17:32:26.534113+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\missile_0.xml</Key>
+        <Value>2012-05-22T11:43:30.0199327+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>LapsCompletes.spritefont</Source>
+      <Name>LapsCompletes</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\LapsCompletes.xnb</Output>
+      <Time>2012-05-04T17:32:21.7838413+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUDfont.spritefont</Source>
+      <Name>HUDfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\HUDfont.xnb</Output>
+      <Time>2012-05-04T17:32:21.5578284+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultsFont.spritefont</Source>
+      <Name>ResultsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\ResultsFont.xnb</Output>
+      <Time>2012-05-04T17:32:21.7918417+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CountDownFont.spritefont</Source>
+      <Name>CountDownFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\CountDownFont.xnb</Output>
+      <Time>2012-05-04T17:32:21.4808239+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\track3trackonly.png</Source>
+      <Name>Textures\track3trackonly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3trackonly.xnb</Output>
+      <Time>2012-05-04T17:32:30.5353418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\racingStartScreen.png</Source>
+      <Name>Textures\racingStartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\racingStartScreen.xnb</Output>
+      <Time>2012-05-04T17:32:29.244268+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\track2trackonly.png</Source>
+      <Name>Textures\track2trackonly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2trackonly.xnb</Output>
+      <Time>2012-05-04T17:32:30.1373191+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\track1trackonly.png</Source>
+      <Name>Textures\track1trackonly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1trackonly.xnb</Output>
+      <Time>2012-05-04T17:32:29.768298+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\winner.png</Source>
+      <Name>Textures\winner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\winner.xnb</Output>
+      <Time>2012-05-04T17:32:32.7394679+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\podium.png</Source>
+      <Name>Textures\podium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\podium.xnb</Output>
+      <Time>2012-05-04T17:32:29.97831+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\introSplash.wmv</Source>
+      <Name>Textures\introSplash</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.xnb</Output>
+      <Extra>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.wmv</Extra>
+      <Time>2012-05-04T17:32:47.0452862+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MyCar.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MyCar_0.xml</Output>
+      <Time>2012-05-04T17:32:24.7950135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CarTexture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb</Output>
+      <Time>2012-05-04T17:32:27.2651548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\hoarding.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\hoarding_0.xml</Output>
+      <Time>2012-05-04T17:32:22.5868872+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\track2hoarding.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2hoarding_0.xnb</Output>
+      <Time>2012-05-04T17:32:31.6884078+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\horizon.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\horizon_0.xml</Output>
+      <Time>2012-05-04T17:32:22.6018881+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\horizon.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\horizon_0.xnb</Output>
+      <Time>2012-05-04T17:32:28.265212+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Cylinder.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Cylinder_0.xml</Output>
+      <Time>2012-05-04T17:32:21.8758465+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\track2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\track2_0.xml</Output>
+      <Time>2012-05-04T17:32:26.3641033+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\track2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2_0.xnb</Output>
+      <Time>2012-05-04T17:32:29.9533085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\track3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\track3_0.xml</Output>
+      <Time>2012-05-04T17:32:26.4081058+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\track3.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3_0.xnb</Output>
+      <Time>2012-05-04T17:32:30.3273299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\cube_0.xml</Output>
+      <Time>2012-05-04T17:32:21.8428447+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MyCarSteerLeft.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MyCarSteerLeft_0.xml</Output>
+      <Time>2012-05-04T17:32:25.7600687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MyCarSteerRight.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MyCarSteerRight_0.xml</Output>
+      <Time>2012-05-04T17:32:26.2410962+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\luckBox.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\luckBox_0.xml</Output>
+      <Time>2012-05-04T17:32:23.194922+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LuckyBoxTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LuckyBoxTexture_0.xnb</Output>
+      <Time>2012-05-04T17:32:27.3611603+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\slick.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\slick_0.xml</Output>
+      <Time>2012-05-04T17:32:26.1350902+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\slickTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\slickTexture_0.xnb</Output>
+      <Time>2012-05-04T17:32:29.0252555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\track1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\track1_0.xml</Output>
+      <Time>2012-05-04T17:32:26.3541027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\track1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1_0.xnb</Output>
+      <Time>2012-05-04T17:32:29.4992826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\startFinish.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\startFinish_0.xml</Output>
+      <Time>2012-05-04T17:32:26.1940935+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\startFinish.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinish_0.xnb</Output>
+      <Time>2012-05-04T17:32:29.5042829+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\startFinishpoles.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinishpoles_0.xnb</Output>
+      <Time>2012-05-04T17:32:29.3222725+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\F1MODELLeft.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\F1MODELLeft_0.xml</Output>
+      <Time>2012-05-04T17:32:25.5580572+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BLACK.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb</Output>
+      <Time>2012-05-04T17:32:26.551114+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GREY.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb</Output>
+      <Time>2012-05-04T17:32:26.7521254+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LIME.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LIME_0.xnb</Output>
+      <Time>2012-05-04T17:32:27.0981452+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\RED.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\RED_0.xnb</Output>
+      <Time>2012-05-04T17:32:28.2102088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WHITE.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\WHITE_0.xnb</Output>
+      <Time>2012-05-04T17:32:30.5683437+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\F1MODELRight.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\F1MODELRight_0.xml</Output>
+      <Time>2012-05-04T17:32:31.6634064+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\F1MODELStraight.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\F1MODELStraight_0.xml</Output>
+      <Time>2012-05-04T17:32:25.8100716+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Shed.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Shed_0.xml</Output>
+      <Time>2012-05-04T17:32:27.041142+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\shed.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\shed_0.xnb</Output>
+      <Time>2012-05-04T17:32:28.8112432+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\missile.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\missile_0.xml</Output>
+      <Time>2012-05-04T17:32:26.534113+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical RacerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical RacerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\William\Documents\GAMES PROJECT\Computing Project 1 William Tarrant\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-19T22:37:25.0346145+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

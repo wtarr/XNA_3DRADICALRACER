@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3D_Radical_Racer.PlayerCar" Collapsed="true">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAgABAAAAgg+gAASAAAACAAEiAQAAAAAIAFCAASAQ=</HashCode>
+      <FileName>PlayerCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.CPUCar" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AhQAQgBMAgAgAyhAACEIUQABAAjAFAgIAAIAAGAAGEw=</HashCode>
+      <FileName>CPUCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.Obstacle" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAwAAAAAgAAAAAAAAAIAEAAQAAgAAAAQ=</HashCode>
+      <FileName>Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.LuckyBox" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAwAAAABgAAAAAAAAAIAAAAQAAgAAAEQ=</HashCode>
+      <FileName>LuckyBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.Camera">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAIAAAIAAAAAQAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.GameObject" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQIEkAAAAACAwAgAAAAIAAEAABAAIgMAAQAAwAJgAQ=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.RadicalRacerMissionControl" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AMQEkHAABAYgExCABDQAICCEAEAMwAwAEAFhRYgAgRQ=</HashCode>
+      <FileName>RadicalRacerMissionControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.GlobalGameData" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAGQABAAwAAABoAAAEIQAUFAFAAEggAAgAAAAgAEEA=</HashCode>
+      <FileName>GlobalGameData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.Car" Collapsed="true">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAUABAQHAgTBAR4EAgEIEAAJAAAAgBgAYIwAACAABA0=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.Track" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAABAAAAAACAAAAAEAAQ=</HashCode>
+      <FileName>Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.Shed" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Shed.cs</FileName>
+      <NewMemberFileName>Hoarding.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.PlayerCarSteerRight" Collapsed="true">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PlayerCarSteerRight.cs</FileName>
+      <NewMemberFileName>PlayerCarSteerLeft.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.PlayerCarSteerLeft" Collapsed="true">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PlayerCarSteerLeft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.StartFinishSignage" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>StartFinishSignage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.Missile" Collapsed="true">
+    <Position X="14" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAQAAAACAAAAAAAAAAAAEAAAAAgAAAAQ=</HashCode>
+      <FileName>Missile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Radical_Racer.CompareDriversPoints" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>CompareDriversPoints.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
