@@ -183,16 +183,16 @@ namespace _3D_Radical_Racer
 
             if (gameState == GameState.running)
             {
-                updateGameRunning();
+                UpdateGameRunning();
                 base.Update(gameTime);
             }
             else if (gameState == GameState.mainMenu)
             {
-                updateGameMainMenu();
+                UpdateGameMainMenu();
             }
             else if (gameState == GameState.raceFinished)
             {
-                updateGameRaceFinished();
+                UpdateGameRaceFinished();
             }
             else if (gameState == GameState.gameOver)
             { 
@@ -200,10 +200,10 @@ namespace _3D_Radical_Racer
             }
         }
 
-        private void updateGameRaceFinished()
+        private void UpdateGameRaceFinished()
         {
-            fillRemainingPositions();
-            assignPoints();
+            FillRemainingPositions();
+            AssignPoints();
 
             if (Keyboard.GetState(PlayerIndex.One).IsKeyDown(Keys.Enter))
             {
@@ -220,18 +220,18 @@ namespace _3D_Radical_Racer
             }
         }
 
-        private void updateGameMainMenu()
+        private void UpdateGameMainMenu()
         {
             if (CheckPointsTestedForAndFound == false)
             {
-                findCheckPoints();
+                FindCheckPoints();
                 CheckPointsTestedForAndFound = true;
             }
             if (Keyboard.GetState(PlayerIndex.One).IsKeyDown(Keys.Enter))
             {
                 gameState = GameState.running;
 
-                allowCarsToMove(true);
+                AllowCarsToMove(true);
             }
 
             // myPlayer.Play(introVideo);
@@ -243,13 +243,13 @@ namespace _3D_Radical_Racer
             }
         }
 
-        private void updateGameRunning()
+        private void UpdateGameRunning()
         {
             GlobalGameData.luckybox.generatePosition();
             GlobalGameData.slick.generatePosition();
-            manageOilSlickObstaclePositioning();
-            startCountdown();
-            checkForRaceOver();
+            ManageOilSlickObstaclePositioning();
+            StartCountdown();
+            CheckForRaceOver();
             canFillRemainingPositions = true;
             canAssignPoints = true;
             //myPlayer.Stop(); //stop the video
@@ -261,17 +261,17 @@ namespace _3D_Radical_Racer
             LoadNextTrack();
             if (CheckPointsTestedForAndFound == false)
             {
-                findCheckPoints();
+                FindCheckPoints();
                 CheckPointsTestedForAndFound = true;
             }
-            resetAllCars();
-            allowCarsToMove(true);
+            ResetAllCars();
+            AllowCarsToMove(true);
             //GameData.lb.generatePosition();
             GlobalGameData.racePosition.Clear();
             gameState = GameState.running;
         }
 
-        private void manageOilSlickObstaclePositioning()
+        private void ManageOilSlickObstaclePositioning()
         {
             // Every 600 cycles the Oil slick is positioned to
             // a different position on the track.
@@ -286,13 +286,13 @@ namespace _3D_Radical_Racer
             slickTimer++;
         }
 
-        private void startCountdown()
+        private void StartCountdown()
         {
             //Start the race countdown
             if (startCountDown == true)
             {
 
-                allowCarsToMove(false);
+                AllowCarsToMove(false);
 
                 countDownTickTimer++;
 
@@ -309,14 +309,14 @@ namespace _3D_Radical_Racer
                     startCountDown = false;
                     countDown = 3;
                     countDownTickTimer = 0;
-                    allowCarsToMove(true);
+                    AllowCarsToMove(true);
                 }
 
             }
         }
 
        
-        private void allowCarsToMove( Boolean yesNo )
+        private void AllowCarsToMove( Boolean yesNo )
         {
             // This method is used to set the cars to be able to move or not
             GlobalGameData.playerCar.allowedToMove = yesNo;
@@ -327,7 +327,7 @@ namespace _3D_Radical_Racer
         }
 
 
-        private void checkForRaceOver()
+        private void CheckForRaceOver()
         {
             // checks if any of the cars have completed the required number of laps and if so 
             // determines their actions and updates the game state
@@ -379,7 +379,7 @@ namespace _3D_Radical_Racer
             
         } //checkForRaceOver
 
-        private void fillRemainingPositions()
+        private void FillRemainingPositions()
         {
             // This method is a cheat really, rather than wait for each other car to
             // finish, if player finishes before all other cars have finished then
@@ -439,7 +439,7 @@ namespace _3D_Radical_Racer
 
         } // Load Next Track
 
-        protected void resetAllCars()
+        protected void ResetAllCars()
         {
             // reset car positions here
             GlobalGameData.playerCar.position = new Vector3(-213, 0, 0);
@@ -500,7 +500,7 @@ namespace _3D_Radical_Racer
         } // reset all cars
 
 
-        private void findCheckPoints()
+        private void FindCheckPoints()
         {
             // runs before the start of each race.
             // start at 0 0 (top left) and sweep to end (bottom right) of texture
@@ -515,7 +515,7 @@ namespace _3D_Radical_Racer
             {
                 Console.WriteLine("X = " + myX + " Y = " + myZ);
 
-                if (checkPointFound(myX, myZ) == true)
+                if (CheckPointFound(myX, myZ) == true)
                 {
                     Console.WriteLine("Found @ " + myX + ", " + myZ);
 
@@ -576,7 +576,7 @@ namespace _3D_Radical_Racer
 
         //-------------------Modified Method from "The Road not taken"-------------------
         //http://www.xnadevelopment.com/tutorials/theroadnottaken/theroadnottaken.shtml
-        internal bool checkPointFound(int x, int z)
+        internal bool CheckPointFound(int x, int z)
         {
             
             /* This method samples a patch of the texture determines if it contains a 
@@ -661,28 +661,28 @@ namespace _3D_Radical_Racer
             {
                 base.Draw(gameTime);
 
-                drawGameRunning();
+                DrawGameRunning();
             }
             else if (gameState == GameState.mainMenu)
             {
 
-                drawGameMainMenu();
+                DrawGameMainMenu();
             }
             else if (gameState == GameState.raceFinished)
             {
-                drawGameRaceFinished();
+                DrawGameRaceFinished();
 
                 
             }
             else if (gameState == GameState.gameOver)
             {
-                drawGameOver();
+                DrawGameOver();
             
             }
 
         } // Draw
 
-        private void drawGameOver()
+        private void DrawGameOver()
         {
             GraphicsDevice.Clear(Color.Black);
 
@@ -692,7 +692,7 @@ namespace _3D_Radical_Racer
             - (startScreenImage.Height / 2)), Color.White);
 
             spriteBatch.DrawString(basicFont, "GAME OVER", new Vector2(100, 100), Color.White);
-            spriteBatch.DrawString(basicFont, "Drivers Championship\n" + displayDriversTable(), new Vector2(100, 120), Color.White);
+            spriteBatch.DrawString(basicFont, "Drivers Championship\n" + DisplayDriversTable(), new Vector2(100, 120), Color.White);
             spriteBatch.End();
 
             GraphicsDevice.BlendState = BlendState.Opaque;
@@ -700,7 +700,7 @@ namespace _3D_Radical_Racer
             GraphicsDevice.DepthStencilState = DepthStencilState.Default;
         }
 
-        private void drawGameRaceFinished()
+        private void DrawGameRaceFinished()
         {
             GraphicsDevice.Clear(Color.Black);
 
@@ -710,7 +710,7 @@ namespace _3D_Radical_Racer
             - (startScreenImage.Height / 2)), Color.White);
 
             spriteBatch.DrawString(raceResultsFont, "Race Finished, " + GlobalGameData.racePosition[0].carName + " won that one, Hit enter to continue to race " + GlobalGameData.nextTrack, new Vector2(100, 70), Color.Yellow);
-            spriteBatch.DrawString(raceResultsFont, "Race Results\n" + racePosition(), new Vector2(100, 90), Color.Yellow);
+            spriteBatch.DrawString(raceResultsFont, "Race Results\n" + RacePosition(), new Vector2(100, 90), Color.Yellow);
             spriteBatch.End();
 
             GraphicsDevice.BlendState = BlendState.Opaque;
@@ -718,7 +718,7 @@ namespace _3D_Radical_Racer
             GraphicsDevice.DepthStencilState = DepthStencilState.Default;
         }
 
-        private void drawGameMainMenu()
+        private void DrawGameMainMenu()
         {
             GraphicsDevice.Clear(Color.Black);
 
@@ -743,7 +743,7 @@ namespace _3D_Radical_Racer
             GraphicsDevice.DepthStencilState = DepthStencilState.Default;
         }
 
-        private void drawGameRunning()
+        private void DrawGameRunning()
         {
             // Draw text with a sprite tutorial http://msdn.microsoft.com/en-us/library/bb447673.aspx
             //then 2d followed by resetting some values
@@ -757,9 +757,9 @@ namespace _3D_Radical_Racer
             spriteBatch.DrawString(HUDfont, "Current Speed: " + GlobalGameData.playerCar.currentSpeed.ToString("#.#"), new Vector2(10, 50), Color.Black);
             spriteBatch.DrawString(HUDfont, "km/h", new Vector2(170, 50), Color.Black);
             if (GlobalGameData.racePosition.Count == 0)
-                spriteBatch.DrawString(basicFont, "Track positions for lap\n" + racePosition(), new Vector2(10, 70), Color.Black);
+                spriteBatch.DrawString(basicFont, "Track positions for lap\n" + RacePosition(), new Vector2(10, 70), Color.Black);
             else
-                spriteBatch.DrawString(basicFont, "Track positions for lap " + GlobalGameData.racePosition[0].numberOfLapsCompletedOnCurrentTrack + "\n" + racePosition(), new Vector2(10, 70), Color.Black);
+                spriteBatch.DrawString(basicFont, "Track positions for lap " + GlobalGameData.racePosition[0].numberOfLapsCompletedOnCurrentTrack + "\n" + RacePosition(), new Vector2(10, 70), Color.Black);
             spriteBatch.End();
 
             //mixing 2d with 3d causes model to be drawn incorrectly, to fix this implement the following 
@@ -768,7 +768,7 @@ namespace _3D_Radical_Racer
             GraphicsDevice.DepthStencilState = DepthStencilState.Default;
         }
 
-        private string displayDriversTable()
+        private string DisplayDriversTable()
         {
             
 
@@ -806,7 +806,7 @@ namespace _3D_Radical_Racer
         } 
 
         // Once race is over assign points to drivers
-        private void assignPoints()
+        private void AssignPoints()
         {
 
             if (GlobalGameData.racePosition.Count > 0 && canAssignPoints == true)
@@ -841,7 +841,7 @@ namespace _3D_Radical_Racer
             
         }
 
-        private String racePosition()
+        private String RacePosition()
         {
             /*
              * Used for building string that will display the cars in order of their position
