@@ -98,7 +98,6 @@ C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical
 C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.wmv
 C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\3D Radical Racer.exe
 C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\3D Radical Racer.pdb
-C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.csprojResolveAssemblyReference.cache
 C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.exe
 C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\3D Radical Racer.pdb

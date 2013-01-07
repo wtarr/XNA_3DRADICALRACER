@@ -36,6 +36,7 @@ namespace _3D_Radical_Racer
         private Rectangle rect1;
         private bool CheckPointsTestedForAndFound = false;
         private float mappedModelX, mappedModelZ;
+        private float mapXNASize = 402.312988281250000f;
         private bool canAssignPoints;
         private bool canFillRemainingPositions; // for use if player car finished before others
         private bool startCountDown = true;
@@ -215,7 +216,7 @@ namespace _3D_Radical_Racer
                 }
                 else
                 {
-                    goToNextTrack();
+                    GoToNextTrack();
                 }
             }
         }
@@ -255,7 +256,7 @@ namespace _3D_Radical_Racer
             //myPlayer.Stop(); //stop the video
         }
 
-        private void goToNextTrack()
+        private void GoToNextTrack()
         {
             CheckPointsTestedForAndFound = false;
             LoadNextTrack();
@@ -521,16 +522,16 @@ namespace _3D_Radical_Racer
 
                     mappedModelX = ((float)myX / 1.28f);
 
-                    mappedModelX = (mappedModelX * -1f) + 402.312988281250000f;
+                    mappedModelX = (mappedModelX * -1f) + mapXNASize;
 
 
 
                     mappedModelZ = ((float)myZ / 1.28f);
 
-                    if (mappedModelZ >= 0 && mappedModelZ <= 402.312988281250000f)
-                        mappedModelZ =  402.312988281250000f - mappedModelZ;
+                    if (mappedModelZ >= 0 && mappedModelZ <= mapXNASize)
+                        mappedModelZ = mapXNASize - mappedModelZ;
                     else
-                        mappedModelZ = (mappedModelZ * -1f) + 402.312988281250000f;
+                        mappedModelZ = (mappedModelZ * -1f) + mapXNASize;
 
                     Console.WriteLine("Mapped X " + mappedModelX + "\nMapped Z " + mappedModelZ);
 
