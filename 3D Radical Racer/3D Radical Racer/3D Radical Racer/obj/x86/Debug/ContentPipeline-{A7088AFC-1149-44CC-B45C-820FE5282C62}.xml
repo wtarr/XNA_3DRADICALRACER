@@ -11,7 +11,7 @@
       <Time>2012-05-04T17:32:24.7950135+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\MyCar_0.xml</Key>
-        <Value>2013-01-07T20:18:15.5758461+00:00</Value>
+        <Value>2013-01-12T12:50:27.4508382+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb</Request>
     </Item>
@@ -25,7 +25,7 @@
       <Time>2012-05-04T17:32:22.5868872+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\hoarding_0.xml</Key>
-        <Value>2013-01-07T20:18:16.0168713+00:00</Value>
+        <Value>2013-01-12T12:50:28.0478724+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2hoarding_0.xnb</Request>
     </Item>
@@ -39,7 +39,7 @@
       <Time>2012-05-04T17:32:22.6018881+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\horizon_0.xml</Key>
-        <Value>2013-01-07T20:18:16.3768919+00:00</Value>
+        <Value>2013-01-12T12:50:28.4108931+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\horizon_0.xnb</Request>
     </Item>
@@ -53,7 +53,7 @@
       <Time>2012-05-04T17:32:21.8758465+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\Cylinder_0.xml</Key>
-        <Value>2013-01-07T20:18:16.7829152+00:00</Value>
+        <Value>2013-01-12T12:50:28.8079158+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\horizon_0.xnb</Request>
     </Item>
@@ -67,7 +67,7 @@
       <Time>2012-05-04T17:32:26.3641033+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\track2_0.xml</Key>
-        <Value>2013-01-07T20:18:16.8199173+00:00</Value>
+        <Value>2013-01-12T12:50:28.8599188+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2_0.xnb</Request>
     </Item>
@@ -81,7 +81,7 @@
       <Time>2012-05-04T17:32:26.4081058+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\track3_0.xml</Key>
-        <Value>2013-01-07T20:18:17.1979389+00:00</Value>
+        <Value>2013-01-12T12:50:29.2409406+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track3_0.xnb</Request>
     </Item>
@@ -95,7 +95,7 @@
       <Time>2012-05-04T17:32:21.8428447+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\cube_0.xml</Key>
-        <Value>2013-01-07T20:18:17.5789607+00:00</Value>
+        <Value>2013-01-12T12:50:29.6179622+00:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -108,7 +108,7 @@
       <Time>2012-05-04T17:32:25.7600687+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\MyCarSteerLeft_0.xml</Key>
-        <Value>2013-01-07T20:18:17.6979675+00:00</Value>
+        <Value>2013-01-12T12:50:29.7659706+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb</Request>
     </Item>
@@ -122,7 +122,7 @@
       <Time>2012-05-04T17:32:26.2410962+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\MyCarSteerRight_0.xml</Key>
-        <Value>2013-01-07T20:18:17.8229747+00:00</Value>
+        <Value>2013-01-12T12:50:29.8979782+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\CarTexture_0.xnb</Request>
     </Item>
@@ -136,7 +136,7 @@
       <Time>2012-05-04T17:32:23.194922+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\luckBox_0.xml</Key>
-        <Value>2013-01-07T20:18:17.8619769+00:00</Value>
+        <Value>2013-01-12T12:50:29.9419807+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\LuckyBoxTexture_0.xnb</Request>
     </Item>
@@ -150,7 +150,7 @@
       <Time>2012-05-04T17:32:26.1350902+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\slick_0.xml</Key>
-        <Value>2013-01-07T20:18:18.2329981+00:00</Value>
+        <Value>2013-01-12T12:50:30.3030014+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\slickTexture_0.xnb</Request>
     </Item>
@@ -164,7 +164,7 @@
       <Time>2012-05-04T17:32:26.3541027+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\track1_0.xml</Key>
-        <Value>2013-01-07T20:18:18.528015+00:00</Value>
+        <Value>2013-01-12T12:50:30.6240197+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track1_0.xnb</Request>
     </Item>
@@ -178,7 +178,7 @@
       <Time>2012-05-04T17:32:26.1940935+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\startFinish_0.xml</Key>
-        <Value>2013-01-07T20:18:18.9150371+00:00</Value>
+        <Value>2013-01-12T12:50:31.0030414+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinish_0.xnb</Request>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\startFinishpoles_0.xnb</Request>
@@ -193,7 +193,7 @@
       <Time>2012-05-04T17:32:25.5580572+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\F1MODELLeft_0.xml</Key>
-        <Value>2013-01-07T20:18:19.7150829+00:00</Value>
+        <Value>2013-01-12T12:50:31.7900864+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb</Request>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb</Request>
@@ -211,7 +211,7 @@
       <Time>2012-05-04T17:32:31.6634064+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\F1MODELRight_0.xml</Key>
-        <Value>2013-01-07T20:18:21.3741778+00:00</Value>
+        <Value>2013-01-12T12:50:33.4171795+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb</Request>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb</Request>
@@ -229,7 +229,7 @@
       <Time>2012-05-04T17:32:25.8100716+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\F1MODELStraight_0.xml</Key>
-        <Value>2013-01-07T20:18:21.6301924+00:00</Value>
+        <Value>2013-01-12T12:50:33.6781944+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\GREY_0.xnb</Request>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\BLACK_0.xnb</Request>
@@ -247,7 +247,7 @@
       <Time>2012-05-04T17:32:27.041142+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\Shed_0.xml</Key>
-        <Value>2013-01-07T20:18:21.6871957+00:00</Value>
+        <Value>2013-01-12T12:50:33.740198+00:00</Value>
       </Dependency>
       <Request>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\shed_0.xnb</Request>
     </Item>
@@ -261,7 +261,7 @@
       <Time>2012-05-04T17:32:26.534113+01:00</Time>
       <Dependency>
         <Key>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\obj\x86\Debug\Models\missile_0.xml</Key>
-        <Value>2013-01-07T20:18:22.0832183+00:00</Value>
+        <Value>2013-01-12T12:50:34.1302203+00:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -362,7 +362,7 @@
       <Options>None</Options>
       <Output>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.xnb</Output>
       <Extra>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\introSplash.wmv</Extra>
-      <Time>2012-05-04T17:32:47.0452862+01:00</Time>
+      <Time>2013-01-12T12:45:13.0349322+00:00</Time>
     </Item>
     <Item>
       <Source>Models\MyCar.fbx</Source>
@@ -408,7 +408,7 @@
       </Parameters>
       <Options>None</Options>
       <Output>C:\Users\William\Documents\GitHub\XNA_3DRADICALRACER\3D Radical Racer\3D Radical Racer\3D Radical Racer\bin\x86\Debug\Content\Textures\track2hoarding_0.xnb</Output>
-      <Time>2012-05-04T17:32:31.6884078+01:00</Time>
+      <Time>2013-01-12T12:48:42.4248785+00:00</Time>
     </Item>
     <Item>
       <Source>Models\horizon.fbx</Source>
