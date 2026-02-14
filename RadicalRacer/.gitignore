@@ -1,0 +1,32 @@
+# MonoGame Build Artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Content Pipeline Build Output
+Content/bin/
+Content/obj/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# MonoGame Content Builder
+*.mgstats
+
+# OS Files
+.DS_Store
+Thumbs.db
+*~
+
+# Backup files
+*.bak
+*.orig
+Content.mgcb.full
