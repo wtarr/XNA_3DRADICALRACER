@@ -61,16 +61,23 @@ dotnet run
 
 ## Known Issues & Limitations
 
+### FBX Model Compatibility (CRITICAL)
+The original FBX model files use an older FBX format that is **incompatible** with the modern Assimp library used by MonoGame 3.8.4. All 18 FBX models fail to import with parsing errors.
+
+**Error:** `FBX-Parser (TOK_COMMA, line X, col 10) unexpected token, expected TOK_KEY`
+
+**Current Status:** The C# code compiles successfully, but 3D models cannot be loaded. The game will build and run but **will not display 3D models** until this is resolved.
+
+**Potential Solutions:**
+1. Re-export FBX files from Blender using FBX 7.4 binary format (most compatible)
+2. Convert models to a different format (e.g., GLTF, Collada)
+3. Use pre-built .xnb files from an XNA 4.0 build if compatible
+4. Manually update FBX files to fix parser errors
+
+**Affected Models:** All 18 models (cube.fbx, Cylinder.fbx, F1MODELLeft.fbx, F1MODELRight.fbx, F1MODELStraight.fbx, hoarding.fbx, horizon.fbx, luckBox.fbx, missile.fbx, MyCar.fbx, MyCarSteerLeft.fbx, MyCarSteerRight.fbx, Shed.fbx, slick.fbx, startFinish.fbx, Track1.fbx, track2.fbx, track3.fbx)
+
 ### Linux Content Pipeline
-The MonoGame Content Pipeline has issues building FBX models on Linux systems with older GLIBC versions (< 2.38). The bundled `libassimp.so` requires GLIBC 2.38+.
-
-**Workarounds:**
-1. Build content on Windows or macOS first
-2. Copy pre-built `.xnb` files from a Windows build
-3. Update to a newer Linux distribution with GLIBC 2.38+
-4. Use a different model format that doesn't require Assimp
-
-**Current Status:** FBX models are temporarily excluded from the content build. The C# code compiles successfully.
+The MonoGame Content Pipeline has issues building FBX models on Linux systems with older GLIBC versions (< 2.38). The bundled `libassimp.so` requires GLIBC 2.38+. However, the primary blocker is now the FBX format compatibility issue above.
 
 ### Content Building on Other Platforms
 - **Windows**: Full content pipeline support ✅
@@ -88,8 +95,9 @@ The MonoGame Content Pipeline has issues building FBX models on Linux systems wi
 - Removed deprecated APIs
 
 ### ⚠️ Partially Migrated
-- FBX 3D models (copied but not yet built due to Linux limitation)
-- Content can be built on Windows/newer systems
+- FBX 3D models (exist but **cannot be built** due to FBX format incompatibility with modern Assimp)
+- Content pipeline successfully builds fonts and textures
+- **Game will not display 3D models until FBX files are updated**
 
 ### ❌ Not Migrated
 - Video playback (WMV format) - replaced with static image
