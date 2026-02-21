@@ -141,10 +141,10 @@ namespace RadicalRacer
         {
             
             // TODO: use this.Content to load your game content here
-            basicFont = Content.Load<SpriteFont>("LapsCompletes");
-            HUDfont = Content.Load<SpriteFont>("HUDfont");
-            raceResultsFont = Content.Load<SpriteFont>("ResultsFont");
-            countDownFont = Content.Load<SpriteFont>("CountDownFont");
+            basicFont = Content.Load<SpriteFont>("Fonts/LapsCompletes");
+            HUDfont = Content.Load<SpriteFont>("Fonts/HUDfont");
+            raceResultsFont = Content.Load<SpriteFont>("Fonts/ResultsFont");
+            countDownFont = Content.Load<SpriteFont>("Fonts/CountDownFont");
             startScreenImage = Content.Load<Texture2D>("Textures\\racingStartScreen");
             winImage = Content.Load<Texture2D>("Textures\\winner");
             podiumImage = Content.Load<Texture2D>("Textures\\podium");
