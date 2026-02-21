@@ -63,7 +63,7 @@ dotnet run
 ### FBX Model Compatibility ✅ RESOLVED
 The original FBX model files used an older FBX format incompatible with the modern Assimp library in MonoGame 3.8.4.
 
-**Resolution:** All 18 FBX models were converted to FBX 7.4 Binary format using the [Autodesk FBX Converter](https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives) and replaced in `RadicalRacer/Content/Models/`.
+**Resolution:** All 18 FBX models were converted to FBX 7.4 Binary format using the [Autodesk FBX Converter](https://aps.autodesk.com/developer/overview/fbx-converter-archives) and replaced in `RadicalRacer/Content/Models/`.
 
 **FBX Converter Settings Used:**
 - Output format: FBX Binary

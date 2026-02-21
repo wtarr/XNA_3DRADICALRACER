@@ -8,3 +8,5 @@ Video Demo - http://youtu.be/1kny2I8kEIg
 Blender logo and XNA logo are used to give acknowledgement - No copyright infringement was intended.
 
 Check wiki for instructions
+
+February 2026 - Converted to run under .net 8 and monogame
