@@ -151,7 +151,7 @@ To complete the migration:
 
 ## Original Project
 
-The original XNA project is preserved in the `3D Radical Racer/` directory for reference. See the original README.md and video demo at http://youtu.be/1kny2I8kEIg
+The original XNA project has been removed. The git history preserves it if ever needed.
 
 ## Building on Different Platforms
 
